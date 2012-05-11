@@ -1,0 +1,97 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+
+div.header {
+    height: 50px; 
+    background-color: black;
+}
+
+.wrapper {
+    width: 800px; 
+    margin: 0 auto;
+}
+
+.branding .logo {
+    float: left; 
+    margin-top: 50px;
+    
+}
+
+.branding #searchform {
+    float: right; 
+    margin-top: 100px;
+}
+
+.primary {
+    width: 48%; 
+    float: right;
+}
+
+.colour {
+    width: 75px; 
+    height: 75px; 
+    float: left; 
+    margin-right: 20px;
+    margin-top: 80px;
+}
+
+.box1 {background-color: #ccc;}
+.box2 {background-color: #666;}
+.box3 {background-color: #999;}
+.box4 {background-color: #333;}
+
+a.btn1 {
+    width: 100%; 
+    background-color: #333; 
+    color: white; 
+    text-align: center;
+    display: block;
+    padding: 10px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+a.btn2 {
+    width: 45%; 
+    background-color: #444; 
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 5px;
+    text-align: center;
+    margin-top: 20px;
+    float: left;
+}
+
+a.btn3 {
+    width: 45%; 
+    background-color: #555; 
+    text-decoration: none; 
+    color: white; 
+    display: block; 
+    padding: 5px; 
+    margin-top: 20px; 
+    text-align: center;
+    float: right;
+}
+
+
+.typography {
+    width: 48%;
+    float: left;
+}
+
+h1 {
+    
+}
+
+h2 {
+    
+}
+
+p {
+    
+}
+.clear {clear: both;}
